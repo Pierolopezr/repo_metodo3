@@ -1,4 +1,4 @@
-# METODO DE CLONAR-2
+# METODO DE CLONAR-3
 ## Pasos:
 
 1. Entramos en el link dado por el profesor para acceder al repositorioa clonar
